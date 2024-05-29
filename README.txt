@@ -1,0 +1,3 @@
+This PDF to Audio application, built using Tkinter, PyPDF2, and pyttsx3, allows users to convert PDF text to speech. Users can select a PDF file, adjust the speech rate, and choose between male and female voices. The application features a graphical user interface with buttons to select a PDF, set speech parameters, play the extracted text as audio, and stop the playback. To use the application, install Python 3.x, Tkinter, PyPDF2, and pyttsx3.
+ Run the script to launch the GUI, choose a PDF file, 
+set the desired speech rate and voice, and click "Play PDF File" to hear the content. The project is licensed under the MIT License.
